@@ -21,4 +21,4 @@
 🖤 The web interface is built using Flask and Bootstrap template integration.
 
 🚀 This project demonstrates how data analytics can reveal insights into global smartphone industry trends.
-demo link: https://drive.google.com/file/d/1fQHX2T84U5UnnXQOwY0eGVzxr18o5s1p/view?usp=drive_link
+demo link: https://drive.google.com/file/d/1EKQZyBA9YtAsd6e5xR7Nlx7ef1E_Q7aq/view?usp=drivesdk
